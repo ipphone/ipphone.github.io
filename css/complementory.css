@@ -149,3 +149,17 @@
       max-height: 570px;
     }
   }
+
+  /* HEADER
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+  .sticky {
+    position: fixed;
+    top: 0;
+    right: 0;
+  }
+
+  header a img {
+    top: 0;
+    right: 0;
+    border: 0;
+  }
